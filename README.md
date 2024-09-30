@@ -21,3 +21,4 @@ Gaming 🎮, Anime, Movies 🎥
 
 ## Connect with me 📱
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-000000?style=flat&logo=linkedin&color=FF69B4)] (www.linkedin.com/in/emil-sabu-644380317)
