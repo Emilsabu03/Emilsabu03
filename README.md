@@ -9,9 +9,9 @@ I am a student at SAIT majoring in Interactive Design | Graphic Designing. I am 
 
 ## Skills 👨‍💻
 
-**Creative Platforms**: Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Canva
+**Creative Platforms**: _Adobe Illustrator_, _Adobe Photoshop_, _Adobe Premiere Pro_, _Adobe After Effects_, _Canva_
 
-**Programming Languages**: HTML, C++, JavaScript
+**Programming Languages**: _HTML_, _C++_, _JavaScript_
 
 
 ## Hobbies 🍿 
