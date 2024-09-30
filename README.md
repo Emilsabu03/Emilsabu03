@@ -21,6 +21,6 @@ Gaming 🎮, Anime, Movies 🎥
 
 ## Connect with me 📱
 
-<a href="www.linkedin.com/in/emil-sabu-644380317">
-<img align="left" src="https://img.shields.io/badge/LinkedIn-#325ea8?&style=for-the-badge&logo=LinkedIn" />
-**Instagram** - www.instagram.com/emil_sabu/
+- **LinkedIn** - www.linkedin.com/in/emil-sabu-644380317
+- **Instagram** - www.instagram.com/emil_sabu/
+- **Email** - emil.sabu@edu.sait.ca
