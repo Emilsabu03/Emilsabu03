@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<div class="center"> 
-<h1>Hi, I am Emil Sabu</h1> </div>
+<div class="centered"> 
+    <h1>Hi, I am Emil Sabu</h1> 
+</div>
 
 ## About Me 🙋🏻‍♂️
 
