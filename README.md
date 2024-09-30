@@ -21,4 +21,4 @@ Gaming 🎮, Anime, Movies 🎥
 
 ## Connect with me 📱
 
-LinkedIn - (www.linkedin.com/in/emil-sabu-644380317)
+**LinkedIn** - www.linkedin.com/in/emil-sabu-644380317
