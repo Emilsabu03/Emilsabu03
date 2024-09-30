@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Emilsabu03/Emilsabu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Emil Sabu
 
-Here are some ideas to get you started:
+## About Me 🙋🏻‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interactive Design Student at SAIT**
+
+I am a student at SAIT majoring in Interactive Design and Graphic Designing. I am passionate about creating innovative designs. I love to blend my creative ideas with technical skills to make visually appealing designs that enhance user experience.
+
+## Skills 👨‍💻
+
+**Creative Platforms**: Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Canva
+
+**Programming Languages**: HTML, C++, JavaScript
+
+## Hobbies 🍿 
+
+Gaming 🎮, Anime, Movies 🎥
