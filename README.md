@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## <p style="text-align:center;">Hi, I am Emil Sabu</p>
+## <h1 align="center">Hi, I am Emil Sabu</h1>.
 
 ## About Me 🙋🏻‍♂️
 
