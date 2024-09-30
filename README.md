@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## <h1 align="center">Hi, I am Emil Sabu</h1>.
-
+## <h1 align="center">Hi, I am Emil Sabu</h1>
 ## About Me 🙋🏻‍♂️
 
 **Interactive Design Student at SAIT**
